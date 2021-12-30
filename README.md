@@ -94,12 +94,15 @@ The backend API uses a fixed set of cached search results and is limited to a pa
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Screenshot
-
-  ![screenShot](https://github.com/ahmedaefattah/myreads_app/blob/main/screenshots/screenshot_1.png)
-  ![screenShot](https://github.com/ahmedaefattah/myreads_app/blob/main/screenshots/screenshot_2.png)
+	
+### Main Page
+  ![screenshot_main](https://github.com/ahmedaefattah/myreads_app/blob/main/screenshots/screenshot_1.png)
+  
+### Search Page
+  ![screenshot_search](https://github.com/ahmedaefattah/myreads_app/blob/main/screenshots/screenshot_2.png)
 
 ## Live Demo
 
-* [Restaurant Template](https://myreads-app-30122021.netlify.app/)
+* [MyRead App](https://myreads-app-30122021.netlify.app/)
 
 
